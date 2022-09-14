@@ -1,0 +1,24 @@
+.btn{
+                height: 50px ;
+                width: 200px;
+                border: double black 5px;
+                background-color: aqua;
+            }
+
+            .onebtn{
+                background-color: rgb(200, 155, 241);
+                border: solid rgb(125, 46, 128) 5px;
+                height: 50px;
+                width: 300px;
+                font-size: 30px;
+                border-radius: 50px;
+            }
+
+            .secbtn{
+                background-color: lightpink;
+                border: solid red 5px;
+                border-radius: 0px 50px 0px 50px;
+                font-size: 30px;
+                height: 50px;
+                width: 200px;
+            }
